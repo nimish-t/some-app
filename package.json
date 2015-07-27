@@ -13,5 +13,19 @@
   },
   "scripts": {
     "test": "grunt"
-  }
+  },
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimish-t/some-app.git"
+  },
+  "author": "Nimish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimish-t/some-app/issues"
+  },
+  "homepage": "https://github.com/nimish-t/some-app#readme"
 }
